@@ -3,6 +3,6 @@ module com.example.protoype {
     requires javafx.fxml;
 
 
-    opens com.example.protoype to javafx.fxml;
-    exports com.example.protoype;
+    opens com.example.mediator to javafx.fxml;
+    exports com.example.mediator;
 }

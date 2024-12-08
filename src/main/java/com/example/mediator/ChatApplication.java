@@ -1,11 +1,7 @@
-package com.example.protoype;
+package com.example.mediator;
 
 import javafx.application.Application;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Scene;
 import javafx.stage.Stage;
-
-import java.io.IOException;
 
 public class ChatApplication extends Application {
     private ConcreteChatMediator mediator;

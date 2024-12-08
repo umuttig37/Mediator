@@ -1,4 +1,4 @@
-package com.example.protoype;
+package com.example.mediator;
 
 public class ChatClient {
     private String username;

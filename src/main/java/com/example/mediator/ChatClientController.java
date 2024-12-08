@@ -1,4 +1,4 @@
-package com.example.protoype;
+package com.example.mediator;
 
 import javafx.scene.Scene;
 import javafx.scene.control.*;

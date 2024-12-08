@@ -1,7 +1,4 @@
-package com.example.protoype;
-
-import java.util.HashMap;
-import java.util.Map;
+package com.example.mediator;
 
 import java.util.HashMap;
 import java.util.Map;
